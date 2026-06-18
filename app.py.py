@@ -86,4 +86,4 @@ if st.button("🔄 Main Lagi / Reset Game"):
 # 7. Footer Kolaborasi (Teks Kredit Tim)
 st.markdown("---")
 st.caption("Proyek ini dikembangkan menggunakan **Streamlit**, **Matplotlib**, dan **Pandas**[cite: 1].")
-st.caption("Dibuat dengan 💻 oleh Tim Kolaborasi: **[Nama Anda]** & **[Nama Tempa Anda]**")
+st.caption("Dibuat dengan 💻 oleh Tim Kolaborasi: **[Reva AYUN]** & **[TEMAN SAYA]**")
